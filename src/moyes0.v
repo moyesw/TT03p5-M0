@@ -137,10 +137,6 @@ endmodule
 ///////////////////////////////////////////////////////////////////////////
 // M0 top level
 //
-
-module tt_um_example (
-);
-
 module tt_um_moyes0_top_module (
   input  wire [7:0] ui_in,	// Dedicated inputs
   output wire [7:0] uo_out,	// Dedicated outputs
