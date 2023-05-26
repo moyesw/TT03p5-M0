@@ -79,8 +79,8 @@ Use the -q option to generate SUBLEQ code. The decimal output should be converte
 Inputs:
 | pin | name | Description |
 | --- | --- | --- |
-|0|clk|Clock input| 
-|1|rst|Reset(active high, run when low)|
+|0|unused|| 
+|1|unused||
 |2|spi_miso|SPI ASIC input, target output|
 |3|unused|(reserved for UART RX)|
 |4|unused||

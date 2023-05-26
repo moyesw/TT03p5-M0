@@ -174,7 +174,6 @@ module tt_um_moyes0_top_module (
   assign uo_out[4] = uart_tx;  // Serial port, ASIC Transmit
   assign uo_out[5] = 1'b0;
   assign uo_out[6] = 1'b0;
-
   assign uo_out[7] = out7;     // debug
 
   // --- ASIC Bidirectional pins ---
